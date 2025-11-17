@@ -1,3 +1,4 @@
+<script>
 let text = " ISH JADO(SWEGER BOY)HEER WE GO ";
  console.log("Length:", text.length);
 
@@ -12,3 +13,4 @@ console.log("split:", text.split(" "));
 console.log("Uppercase:", text.toUpperCase());
 
 console.log("Lowercase:", text.toLowerCase());
+</script>
